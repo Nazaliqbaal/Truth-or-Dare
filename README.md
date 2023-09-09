@@ -9,7 +9,7 @@ This is a simple web-based "Truth or Dare" game where users can play and enjoy t
 ## Features
 
 - Click on "Truth" or "Dare" buttons to get random truth or dare questions/tasks.
+- Click Random to get etiher a truth or a dare question/task randomly.
 - Perfect for virtual hangouts, parties, or gatherings.
-- Responsive design for various screen sizes.
-- Enjoyable animations to enhance user experience.
+
 
