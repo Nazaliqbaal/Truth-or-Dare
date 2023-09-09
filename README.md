@@ -1,6 +1,6 @@
 # Truth or Dare
 
-**Live Demo:** [Truth or Dare Game](https://snazzy-quokka-9e8ad2.netlify.app](https://play-truth-or-dare.netlify.app/))
+**Live Demo:** [Truth or Dare Game]([https://snazzy-quokka-9e8ad2.netlify.app](https://play-truth-or-dare.netlify.app/)])
 
 ## Description
 
