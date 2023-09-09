@@ -297,11 +297,26 @@ button:nth-child(1):hover span {
   background: #52e19f;
 }
 
-@media(max-width:768px){
-    body{
-        padding: 15px;
-    }
-    h1{
-        font-size: 30px;
-    }
+@media (max-width: 768px) {
+  body {
+    padding: 15px;
+  }
+  h1 {
+    font-size: 38px;
+  }
+  h2 {
+    font-size: 24px;
+  }
+  .btn-containers {
+    gap: 50px;
+  }
+  button {
+    width: 70px;
+  }
+  button span {
+    font-size: 18px;
+  }
+  .🤚 {
+    width: 60px;
+  }
 }
